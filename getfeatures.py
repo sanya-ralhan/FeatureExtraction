@@ -3,7 +3,7 @@ from sklearn import tree
 import csv, math 
 import numpy as np
 from sklearn.externals import joblib
-import pron_detect_train
+import pron_train
 import pickle
 import sys
 
@@ -157,7 +157,7 @@ for line in content:
  
     model_mat = model_data['mat']
     threshold = model_data['thresh']
-    if pron_detect_train.avg_transition_prob(str(line)[2:leng+2], model_mat) > threshold:
+    if pron_train.avg_transition_prob(str(line)[2:leng+2], model_mat) > threshold:
         pronounciation.append('1')
     else:
         pronounciation.append('0')
