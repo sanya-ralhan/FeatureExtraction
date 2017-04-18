@@ -3,11 +3,11 @@ from sklearn import tree
 import csv, math 
 import numpy as np
 from sklearn.externals import joblib
-import pron_train
+import gib_detect_train
 import pickle
 import sys
 
-model_data = pickle.load(open('pron_model.pki', 'rb'))
+model_data = pickle.load(open('gib_model.pki', 'rb'))
 
 para= sys.argv[1]
 
@@ -157,7 +157,7 @@ for line in content:
  
     model_mat = model_data['mat']
     threshold = model_data['thresh']
-    if pron_train.avg_transition_prob(str(line)[2:leng+2], model_mat) > threshold:
+    if gib_detect_train.avg_transition_prob(str(line)[2:leng+2], model_mat) > threshold:
         pronounciation.append('1')
     else:
         pronounciation.append('0')
