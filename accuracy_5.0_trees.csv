@@ -1,0 +1,70 @@
+target block,0
+tree,0,correct:,829,wrong:,171,true positive,211,false positive,85,true negative,618,false negative,86,total:,1000,accuracy:,0.829,sensitivity,0.7104377104377104,specificity,0.8790896159317212
+tree,1,correct:,807,wrong:,193,true positive,201,false positive,97,true negative,606,false negative,96,total:,1000,accuracy:,0.807,sensitivity,0.6767676767676768,specificity,0.8620199146514936
+tree,2,correct:,826,wrong:,174,true positive,202,false positive,79,true negative,624,false negative,95,total:,1000,accuracy:,0.826,sensitivity,0.6801346801346801,specificity,0.887624466571835
+tree,3,correct:,805,wrong:,195,true positive,190,false positive,88,true negative,615,false negative,107,total:,1000,accuracy:,0.805,sensitivity,0.6397306397306397,specificity,0.8748221906116643
+tree,4,correct:,791,wrong:,209,true positive,183,false positive,95,true negative,608,false negative,114,total:,1000,accuracy:,0.791,sensitivity,0.6161616161616161,specificity,0.8648648648648649
+forest,0,correct:,847,wrong:,153,true positive,202,false positive,58,true negative,645,false negative,95,total:,1000,accuracy:,0.847,sensitivity,0.6801346801346801,specificity,0.9174964438122333
+target block,1
+tree,0,correct:,806,wrong:,194,true positive,208,false positive,105,true negative,598,false negative,89,total:,1000,accuracy:,0.806,sensitivity,0.7003367003367004,specificity,0.8506401137980085
+tree,1,correct:,816,wrong:,184,true positive,204,false positive,91,true negative,612,false negative,93,total:,1000,accuracy:,0.816,sensitivity,0.6868686868686869,specificity,0.8705547652916074
+tree,2,correct:,797,wrong:,203,true positive,202,false positive,108,true negative,595,false negative,95,total:,1000,accuracy:,0.797,sensitivity,0.6801346801346801,specificity,0.8463726884779517
+tree,3,correct:,790,wrong:,210,true positive,195,false positive,108,true negative,595,false negative,102,total:,1000,accuracy:,0.79,sensitivity,0.6565656565656566,specificity,0.8463726884779517
+tree,4,correct:,786,wrong:,214,true positive,187,false positive,104,true negative,599,false negative,110,total:,1000,accuracy:,0.786,sensitivity,0.6296296296296297,specificity,0.8520625889046942
+forest,1,correct:,837,wrong:,163,true positive,205,false positive,71,true negative,632,false negative,92,total:,1000,accuracy:,0.837,sensitivity,0.6902356902356902,specificity,0.89900426742532
+target block,2
+tree,0,correct:,761,wrong:,239,true positive,157,false positive,102,true negative,604,false negative,137,total:,1000,accuracy:,0.761,sensitivity,0.5340136054421769,specificity,0.8555240793201133
+tree,1,correct:,780,wrong:,220,true positive,164,false positive,90,true negative,616,false negative,130,total:,1000,accuracy:,0.78,sensitivity,0.5578231292517006,specificity,0.8725212464589235
+tree,2,correct:,761,wrong:,239,true positive,152,false positive,97,true negative,609,false negative,142,total:,1000,accuracy:,0.761,sensitivity,0.5170068027210885,specificity,0.8626062322946175
+tree,3,correct:,770,wrong:,230,true positive,157,false positive,93,true negative,613,false negative,137,total:,1000,accuracy:,0.77,sensitivity,0.5340136054421769,specificity,0.8682719546742209
+tree,4,correct:,753,wrong:,247,true positive,147,false positive,100,true negative,606,false negative,147,total:,1000,accuracy:,0.753,sensitivity,0.5,specificity,0.8583569405099151
+forest,2,correct:,792,wrong:,208,true positive,151,false positive,65,true negative,641,false negative,143,total:,1000,accuracy:,0.792,sensitivity,0.5136054421768708,specificity,0.9079320113314447
+target block,3
+tree,0,correct:,777,wrong:,223,true positive,183,false positive,109,true negative,594,false negative,114,total:,1000,accuracy:,0.777,sensitivity,0.6161616161616161,specificity,0.844950213371266
+tree,1,correct:,765,wrong:,235,true positive,169,false positive,107,true negative,596,false negative,128,total:,1000,accuracy:,0.765,sensitivity,0.569023569023569,specificity,0.8477951635846372
+tree,2,correct:,771,wrong:,229,true positive,161,false positive,93,true negative,610,false negative,136,total:,1000,accuracy:,0.771,sensitivity,0.5420875420875421,specificity,0.8677098150782361
+tree,3,correct:,766,wrong:,234,true positive,143,false positive,80,true negative,623,false negative,154,total:,1000,accuracy:,0.766,sensitivity,0.48148148148148145,specificity,0.8862019914651493
+tree,4,correct:,759,wrong:,241,true positive,158,false positive,102,true negative,601,false negative,139,total:,1000,accuracy:,0.759,sensitivity,0.531986531986532,specificity,0.8549075391180654
+forest,3,correct:,804,wrong:,196,true positive,164,false positive,63,true negative,640,false negative,133,total:,1000,accuracy:,0.804,sensitivity,0.5521885521885522,specificity,0.9103840682788051
+target block,4
+tree,0,correct:,819,wrong:,181,true positive,233,false positive,120,true negative,586,false negative,61,total:,1000,accuracy:,0.819,sensitivity,0.7925170068027211,specificity,0.830028328611898
+tree,1,correct:,813,wrong:,187,true positive,228,false positive,121,true negative,585,false negative,66,total:,1000,accuracy:,0.813,sensitivity,0.7755102040816326,specificity,0.8286118980169972
+tree,2,correct:,837,wrong:,163,true positive,226,false positive,95,true negative,611,false negative,68,total:,1000,accuracy:,0.837,sensitivity,0.7687074829931972,specificity,0.8654390934844193
+tree,3,correct:,814,wrong:,186,true positive,221,false positive,113,true negative,593,false negative,73,total:,1000,accuracy:,0.814,sensitivity,0.7517006802721088,specificity,0.839943342776204
+tree,4,correct:,806,wrong:,194,true positive,205,false positive,105,true negative,601,false negative,89,total:,1000,accuracy:,0.806,sensitivity,0.6972789115646258,specificity,0.8512747875354107
+forest,4,correct:,868,wrong:,132,true positive,231,false positive,69,true negative,637,false negative,63,total:,1000,accuracy:,0.868,sensitivity,0.7857142857142857,specificity,0.9022662889518414
+target block,5
+tree,0,correct:,827,wrong:,173,true positive,231,false positive,107,true negative,596,false negative,66,total:,1000,accuracy:,0.827,sensitivity,0.7777777777777778,specificity,0.8477951635846372
+tree,1,correct:,828,wrong:,172,true positive,224,false positive,99,true negative,604,false negative,73,total:,1000,accuracy:,0.828,sensitivity,0.7542087542087542,specificity,0.8591749644381224
+tree,2,correct:,842,wrong:,158,true positive,239,false positive,100,true negative,603,false negative,58,total:,1000,accuracy:,0.842,sensitivity,0.8047138047138047,specificity,0.8577524893314367
+tree,3,correct:,822,wrong:,178,true positive,231,false positive,112,true negative,591,false negative,66,total:,1000,accuracy:,0.822,sensitivity,0.7777777777777778,specificity,0.8406827880512091
+tree,4,correct:,819,wrong:,181,true positive,220,false positive,104,true negative,599,false negative,77,total:,1000,accuracy:,0.819,sensitivity,0.7407407407407407,specificity,0.8520625889046942
+forest,5,correct:,875,wrong:,125,true positive,239,false positive,67,true negative,636,false negative,58,total:,1000,accuracy:,0.875,sensitivity,0.8047138047138047,specificity,0.9046941678520626
+target block,6
+tree,0,correct:,842,wrong:,158,true positive,241,false positive,105,true negative,601,false negative,53,total:,1000,accuracy:,0.842,sensitivity,0.8197278911564626,specificity,0.8512747875354107
+tree,1,correct:,855,wrong:,145,true positive,244,false positive,95,true negative,611,false negative,50,total:,1000,accuracy:,0.855,sensitivity,0.8299319727891157,specificity,0.8654390934844193
+tree,2,correct:,847,wrong:,153,true positive,239,false positive,98,true negative,608,false negative,55,total:,1000,accuracy:,0.847,sensitivity,0.8129251700680272,specificity,0.8611898016997167
+tree,3,correct:,831,wrong:,169,true positive,225,false positive,100,true negative,606,false negative,69,total:,1000,accuracy:,0.831,sensitivity,0.7653061224489796,specificity,0.8583569405099151
+tree,4,correct:,848,wrong:,152,true positive,245,false positive,103,true negative,603,false negative,49,total:,1000,accuracy:,0.848,sensitivity,0.8333333333333334,specificity,0.8541076487252125
+forest,6,correct:,889,wrong:,111,true positive,252,false positive,69,true negative,637,false negative,42,total:,1000,accuracy:,0.889,sensitivity,0.8571428571428571,specificity,0.9022662889518414
+target block,7
+tree,0,correct:,784,wrong:,216,true positive,176,false positive,95,true negative,608,false negative,121,total:,1000,accuracy:,0.784,sensitivity,0.5925925925925926,specificity,0.8648648648648649
+tree,1,correct:,793,wrong:,207,true positive,180,false positive,90,true negative,613,false negative,117,total:,1000,accuracy:,0.793,sensitivity,0.6060606060606061,specificity,0.871977240398293
+tree,2,correct:,775,wrong:,225,true positive,170,false positive,98,true negative,605,false negative,127,total:,1000,accuracy:,0.775,sensitivity,0.5723905723905723,specificity,0.8605974395448079
+tree,3,correct:,772,wrong:,228,true positive,172,false positive,103,true negative,600,false negative,125,total:,1000,accuracy:,0.772,sensitivity,0.5791245791245792,specificity,0.8534850640113798
+tree,4,correct:,791,wrong:,209,true positive,189,false positive,101,true negative,602,false negative,108,total:,1000,accuracy:,0.791,sensitivity,0.6363636363636364,specificity,0.8563300142247511
+forest,7,correct:,823,wrong:,177,true positive,180,false positive,60,true negative,643,false negative,117,total:,1000,accuracy:,0.823,sensitivity,0.6060606060606061,specificity,0.914651493598862
+target block,8
+tree,0,correct:,766,wrong:,234,true positive,165,false positive,102,true negative,601,false negative,132,total:,1000,accuracy:,0.766,sensitivity,0.5555555555555556,specificity,0.8549075391180654
+tree,1,correct:,772,wrong:,228,true positive,155,false positive,86,true negative,617,false negative,142,total:,1000,accuracy:,0.772,sensitivity,0.5218855218855218,specificity,0.8776671408250356
+tree,2,correct:,751,wrong:,249,true positive,155,false positive,107,true negative,596,false negative,142,total:,1000,accuracy:,0.751,sensitivity,0.5218855218855218,specificity,0.8477951635846372
+tree,3,correct:,772,wrong:,228,true positive,169,false positive,100,true negative,603,false negative,128,total:,1000,accuracy:,0.772,sensitivity,0.569023569023569,specificity,0.8577524893314367
+tree,4,correct:,775,wrong:,225,true positive,169,false positive,97,true negative,606,false negative,128,total:,1000,accuracy:,0.775,sensitivity,0.569023569023569,specificity,0.8620199146514936
+forest,8,correct:,806,wrong:,194,true positive,164,false positive,61,true negative,642,false negative,133,total:,1000,accuracy:,0.806,sensitivity,0.5521885521885522,specificity,0.9132290184921764
+target block,9
+tree,0,correct:,742,wrong:,258,true positive,132,false positive,96,true negative,610,false negative,162,total:,1000,accuracy:,0.742,sensitivity,0.4489795918367347,specificity,0.8640226628895185
+tree,1,correct:,756,wrong:,244,true positive,148,false positive,98,true negative,608,false negative,146,total:,1000,accuracy:,0.756,sensitivity,0.5034013605442177,specificity,0.8611898016997167
+tree,2,correct:,756,wrong:,244,true positive,144,false positive,94,true negative,612,false negative,150,total:,1000,accuracy:,0.756,sensitivity,0.4897959183673469,specificity,0.8668555240793201
+tree,3,correct:,777,wrong:,223,true positive,178,false positive,107,true negative,599,false negative,116,total:,1000,accuracy:,0.777,sensitivity,0.6054421768707483,specificity,0.8484419263456091
+tree,4,correct:,773,wrong:,227,true positive,175,false positive,108,true negative,598,false negative,119,total:,1000,accuracy:,0.773,sensitivity,0.5952380952380952,specificity,0.8470254957507082
+forest,9,correct:,804,wrong:,196,true positive,162,false positive,64,true negative,642,false negative,132,total:,1000,accuracy:,0.804,sensitivity,0.5510204081632653,specificity,0.9093484419263456
